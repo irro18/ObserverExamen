@@ -8,7 +8,7 @@ using System.Windows.Forms;
 
 namespace ObserverExamen.Observer
 {
-    class ObserverAlerta : IObserver
+    public class ObserverAlerta : IObserver
     {
         ///COnstantes
         ///

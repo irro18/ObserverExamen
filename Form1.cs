@@ -21,7 +21,7 @@ namespace ObserverExamen
         {
             InitializeComponent();
             
-            _sensores = new Sensor((int)numericUpDown1.Value, (bool)comboBox1.SelectedItem, (bool)comboBox2.SelectedItem);
+            //_sensores = new Sensor((int)numericUpDown1.Value, (bool)comboBox1.SelectedItem, (bool)comboBox2.SelectedItem);
             //_sensores = new Sensor((bool)comboBox1.SelectedItem);
             //_sensores = new Sensor((bool)comboBox2.SelectedItem);
             _display = new ObserverAlerta(_sensores);
