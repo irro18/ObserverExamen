@@ -1,0 +1,10 @@
+C:\Users\ivanR\Documents\UP\7\Patrones de  Diseño\ObserverExamen\obj\Debug\ObserverExamen.csprojAssemblyReference.cache
+C:\Users\ivanR\Documents\UP\7\Patrones de  Diseño\ObserverExamen\obj\Debug\ObserverExamen.Form1.resources
+C:\Users\ivanR\Documents\UP\7\Patrones de  Diseño\ObserverExamen\obj\Debug\ObserverExamen.Properties.Resources.resources
+C:\Users\ivanR\Documents\UP\7\Patrones de  Diseño\ObserverExamen\obj\Debug\ObserverExamen.csproj.GenerateResource.cache
+C:\Users\ivanR\Documents\UP\7\Patrones de  Diseño\ObserverExamen\obj\Debug\ObserverExamen.csproj.CoreCompileInputs.cache
+C:\Users\ivanR\Documents\UP\7\Patrones de  Diseño\ObserverExamen\bin\Debug\ObserverExamen.exe.config
+C:\Users\ivanR\Documents\UP\7\Patrones de  Diseño\ObserverExamen\bin\Debug\ObserverExamen.exe
+C:\Users\ivanR\Documents\UP\7\Patrones de  Diseño\ObserverExamen\bin\Debug\ObserverExamen.pdb
+C:\Users\ivanR\Documents\UP\7\Patrones de  Diseño\ObserverExamen\obj\Debug\ObserverExamen.exe
+C:\Users\ivanR\Documents\UP\7\Patrones de  Diseño\ObserverExamen\obj\Debug\ObserverExamen.pdb
